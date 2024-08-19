@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/College-Examiner/static/css/main.73d94363.css",
-    "main.js": "/College-Examiner/static/js/main.a7ee0cf3.js",
-    "index.html": "/College-Examiner/index.html",
-    "main.73d94363.css.map": "/College-Examiner/static/css/main.73d94363.css.map",
-    "main.a7ee0cf3.js.map": "/College-Examiner/static/js/main.a7ee0cf3.js.map"
+    "main.css": "/static/css/main.73d94363.css",
+    "main.js": "/static/js/main.dc26d62c.js",
+    "index.html": "/index.html",
+    "main.73d94363.css.map": "/static/css/main.73d94363.css.map",
+    "main.dc26d62c.js.map": "/static/js/main.dc26d62c.js.map"
   },
   "entrypoints": [
     "static/css/main.73d94363.css",
-    "static/js/main.a7ee0cf3.js"
+    "static/js/main.dc26d62c.js"
   ]
 }
